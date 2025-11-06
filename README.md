@@ -13,6 +13,9 @@ LocalPro is a local service marketplace where you can provide and consume servic
 - User-friendly interface with easy navigation and service discovery.
 - Ratings and reviews system to maintain service quality.
 
+## Provider Dashboard
+![Provider Dashboard](Images/Provider-Dashboard.png)
+
 ## Tech Stack
 
 - **Frontend:** React.js, Tailwind CSS, React Router, Lucide Icons
