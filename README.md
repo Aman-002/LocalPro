@@ -2,6 +2,9 @@
 
 LocalPro is a local service marketplace where you can provide and consume services from skilled professionals in your town. It ensures a secure and trustworthy platform for all your household solutions.
 
+### Home Page
+![Home Page](Images/Home.png)
+
 ## Features
 
 - Browse and hire local service providers for various household tasks.
